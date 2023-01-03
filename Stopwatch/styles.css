@@ -1,0 +1,45 @@
+@font-face {
+    font-family: orb;
+    src: url(font/Technology.ttf);
+}
+
+body{
+    font-family:'orb', sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family:'orb', sans-serif;
+    font-size: 20vw;
+    color: #44C553;
+}
+
+/*20vw means size 20 in relation to the viewport.*/
+
+button{
+    background-color: #44C553;
+    border: none;
+    color: black;
+    font-family:'orb', sans-serif;
+    border-radius: 5px;
+    font-size: 5vw;
+}
+
+h2{
+    color: #44C553;
+    font-size: 8vw;
+}
+
+
+li{
+    list-style-type: none;
+    color: #44C553;
+    font-size: 8vw;
+}
+
+ul{
+    color: #44C553;
+    margin: 0;
+    padding: 0;
+}
