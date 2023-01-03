@@ -1,0 +1,5 @@
+Noises - complete
+pause button - complete
+boarder around previous times - complete
+add cookies
+styling 

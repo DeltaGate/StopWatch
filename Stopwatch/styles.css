@@ -40,6 +40,10 @@ li{
 
 ul{
     color: #44C553;
-    margin: 0;
+    margin: 70px;
     padding: 0;
+    border: 10px solid #44C553;
+    border-radius: 5px;
+
 }
+
